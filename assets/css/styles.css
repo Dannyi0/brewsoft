@@ -1,0 +1,18 @@
+#splash-screen {
+  position:absolute;
+  top:0;
+  left:0;
+  bottom:0;
+  width:100%;
+  background-color:black;
+}
+
+#splash-msg {
+  color:rgb(255,255,255);
+  margin-bottom:0px;
+  margin-top:50vh;
+  text-align:center;
+  font-family:'Unica One', cursive;
+  width:100%;
+}
+
